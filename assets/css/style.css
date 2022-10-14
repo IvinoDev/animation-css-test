@@ -10,13 +10,12 @@ body {
     margin: 0;
 }
 
-
 .single-div {
-    width: 42%;
+    width: 40%;
     float: left;
-    height: 300px;
+    height: 310px;
     text-align: center;
-    margin: 100px 10px 0;
+    margin: 100px 13px 0px;
     font-family: 'Poppins';
     padding: 21px;
     color: black;
@@ -29,6 +28,9 @@ body {
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     color: #fff;
+    cursor: pointer;
+    border: 2px dotted #333;
+    /* border: 2px dotted rgb(251, 250, 250); */
 
 }
 
